@@ -11,7 +11,7 @@
     <ul>
         <li>🔭 I’m currently working on <a href="https://github.com/AlfazetOperations/
         <li>👯 I’m looking to collaborate on Business Administration Digitalization</li>
-        <li>📫 How to contact me: <a href="mailto:management@alfazetoperations.nl">management@alfazetoperations.nl</a> or <a href="mailto:contactme.florinlacatus@gmail.com">contactme.florinlacatus@gmail.com</a></li>
+     https://www.kvk.nl/bestellen/#/93221495000058781757?origin=search   <li>📫 How to contact me: <a href="mailto:management@alfazetoperations.nl">management@alfazetoperations.nl</a> or <a href="mailto:contactme.florinlacatus@gmail.com">contactme.florinlacatus@gmail.com</a></li>
     </ul>
     <ul>
         <li><a href="https://www.instagram.com/eternitas98?igsh=ZG91ZzgxOWVqOGQx">Instagram</a></li>
