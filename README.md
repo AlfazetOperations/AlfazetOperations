@@ -9,7 +9,7 @@
     <h1>Hi there, I'm Florin Lacatus, owner of AlfazetOperations 👋</h1>
     <h2>About Me</h2>
     <ul>
-        <li>🔭 I’m currently working on <a href="https://github.com/AlfazetOperations/project-xyz">Project XYZ</a></li>
+        <li>🔭 I’m currently working on <a href="https://github.com/AlfazetOperations/
         <li>👯 I’m looking to collaborate on Business Administration Digitalization</li>
         <li>📫 How to contact me: <a href="mailto:management@alfazetoperations.nl">management@alfazetoperations.nl</a> or <a href="mailto:contactme.florinlacatus@gmail.com">contactme.florinlacatus@gmail.com</a></li>
     </ul>
